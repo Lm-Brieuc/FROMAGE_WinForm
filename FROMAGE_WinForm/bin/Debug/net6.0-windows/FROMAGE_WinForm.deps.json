@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FROMAGE_WinForm/1.0.0": {
+        "runtime": {
+          "FROMAGE_WinForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FROMAGE_WinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
